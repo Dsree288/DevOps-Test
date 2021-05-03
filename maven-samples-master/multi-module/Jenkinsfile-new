@@ -1,0 +1,15 @@
+node(){
+    
+
+ stage("Dir"){
+     
+     echo "Dir"
+}
+
+ stage("Dir-new"){
+     
+     echo "Dir-new"
+}
+   
+    
+}
