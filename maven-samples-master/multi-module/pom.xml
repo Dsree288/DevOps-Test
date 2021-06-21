@@ -25,7 +25,6 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <uniqueVersion>false</uniqueVersion>
       <url>file:///tmp/multi-module-site</url>
     </site>
   </distributionManagement>
