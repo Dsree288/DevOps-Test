@@ -31,7 +31,7 @@
       <groupId>${project.groupId}</groupId>
       <artifactId>server</artifactId>
       <version>${project.version}</version>
-      <uniqueVersion>false</uniqueVersion>
+      
     </dependency>
 
     <dependency>
