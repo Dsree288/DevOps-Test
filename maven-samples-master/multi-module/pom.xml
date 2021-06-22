@@ -27,6 +27,9 @@
       <name>Test Project Site</name>
       <url>file:///tmp/multi-module-site</url>
     </site>
+    <snapshotRepository>
+        <uniqueVersion>false</uniqueVersion>
+    </snapshotRepository>
   </distributionManagement>
 
   <build>
