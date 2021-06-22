@@ -13,14 +13,9 @@
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
   <name>Webapp</name>
+  <uniqueVersion>false</uniqueVersion>
   <description>Webapp.</description>
          
-  <distributionManagement>
-      <snapshotRepository>
-         <uniqueVersion>false</uniqueVersion>
-    </snapshotRepository>
-  </distributionManagement>
-
   <build>
     <!--finalName>${project.artifactId}</finalName-->
 
