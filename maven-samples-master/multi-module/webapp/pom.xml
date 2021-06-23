@@ -6,7 +6,7 @@
   <parent>
     <groupId>com.example.maven-samples</groupId>
     <artifactId>multi-module-parent</artifactId>
-    <version>${baseversion}-SNAPSHOT</version>
+    <version>${baseversion}</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
